@@ -2,6 +2,15 @@
 
 <!-- version list -->
 
+## v1.5.3 (2026-07-03)
+
+### Bug Fixes
+
+- Update Workflows wrapper to work more natively with Python objects
+  ([#138](https://github.com/cloudflare/workers-py/pull/138),
+  [`63ea6a0`](https://github.com/cloudflare/workers-py/commit/63ea6a0842875e04f3883bd050a097a3ef7152bd))
+
+
 ## v1.5.2 (2026-07-01)
 
 ### Bug Fixes

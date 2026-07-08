@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.6.0 (2026-07-08)
+
+### Features
+
+- Add wsgi.py analogous to asgi.py ([#145](https://github.com/cloudflare/workers-py/pull/145),
+  [`247f9ff`](https://github.com/cloudflare/workers-py/commit/247f9ff5387eb2d286c65c1199f3ff51938578fa))
+
+
 ## v1.5.4 (2026-07-08)
 
 ### Bug Fixes

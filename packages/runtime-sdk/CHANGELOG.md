@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.6.1 (2026-07-09)
+
+### Bug Fixes
+
+- Improve lifespan handling in asgi.py ([#148](https://github.com/cloudflare/workers-py/pull/148),
+  [`7c9adfc`](https://github.com/cloudflare/workers-py/commit/7c9adfce6c3997f1547901755e97c685ef6e6be3))
+
+
 ## v1.6.0 (2026-07-08)
 
 ### Features
